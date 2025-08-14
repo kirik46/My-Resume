@@ -1,4 +1,3 @@
-
 h2 {background-color: yellow;}
 
 
@@ -10,3 +9,5 @@ li{font-style: oblique;}
 h2 {font-weight: 300;}
 
 h1{font-weight: 400;}
+hr {border-color: blue;}
+hr {border-style: groove}
